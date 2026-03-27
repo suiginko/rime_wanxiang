@@ -1,5 +1,13 @@
 # Changelog
 
+## [15.3.12](https://github.com/amzxyz/rime_wanxiang/compare/v15.3.11...v15.3.12) (2026-03-27)
+
+
+### 🐛 Bug 修复
+
+* 改进上下文调频的策略，只匹配首词字数相等的候选，避免单字等跃迁到前面 ([503a257](https://github.com/amzxyz/rime_wanxiang/commit/503a257861527e1b23bc171267b2d0e2dcb96057))
+* 添加若干tips数据 ([8534b05](https://github.com/amzxyz/rime_wanxiang/commit/8534b054a5fa7e41c3a2762fd29918f92a91e7e7))
+
 ## [15.3.11](https://github.com/amzxyz/rime_wanxiang/compare/v15.3.10...v15.3.11) (2026-03-26)
 
 
